@@ -1,3 +1,8 @@
+# Introduction
+Here are a collection of resources I used while moving into cybersecurity.
+I will continue to add more resources as I find them!
+
+
 # My Contact Info
 twitter: @turbo_sec
 website: www.mwnickerson.com
