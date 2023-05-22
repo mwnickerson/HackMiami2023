@@ -51,7 +51,71 @@ Jason Dion's Udemy Course for Security +
 
 
 ## Twitter
+@mariuszbit
 
+@zyn3rgy
+
+@SpecterOps
+
+@xforcered
+
+@ThreatLabz
+
+@Breakfix
+
+@momika233
+
+@RedDrip7
+
+@ilove2pwn_
+
+@_Mayyhem
+
+@sneakerhax
+
+@rootsecdev
+
+@jack_halon
+
+@OutflankNL
+
+@Ox4d5a
+
+@ly4k
+
+@Tyl0us
+
+@octoberfest73
+
+@assume_breach
+
+@HaoZhixiang
+
+@snovvcrash
+
+@otterhacker
+
+@passthehashbrown
+
+@vysecurity
+
+@Unit42_Intel
+
+@chvancooten
+
+@domchell
+
+@HackingLZ
+
+@ShitSecure
+
+@Alh4zr3d
+
+@dinosn
+
+10:14 AM
+If you add those people, twitter should sta... by Matthew Nickerson
+Matthew Nickerson
 
 ## Discord 
 Black Hills 
