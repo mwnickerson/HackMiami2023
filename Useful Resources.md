@@ -113,10 +113,6 @@ Jason Dion's Udemy Course for Security +
 
 @dinosn
 
-10:14 AM
-If you add those people, twitter should sta... by Matthew Nickerson
-Matthew Nickerson
-
 ## Discord 
 Black Hills 
 Trusted Sec
